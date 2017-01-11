@@ -7,7 +7,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := cm_targa
+PRODUCT_NAME := lineage_targa
 PRODUCT_BRAND := verizon
 PRODUCT_DEVICE := targa
 PRODUCT_DEVICE_PREFIX := cdma
